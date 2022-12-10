@@ -9,4 +9,4 @@ Built using Kotlin and XML in Android Studio.
 
 Demo:
 
-https://user-images.githubusercontent.com/71290098/206818625-97559ece-4982-4227-8daa-46697220621d.mp4
+https://user-images.githubusercontent.com/71290098/206818817-195439fd-fba9-491c-80e8-f2a99882e7dd.mp4
