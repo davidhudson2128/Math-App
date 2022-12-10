@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Button.Colored" parent="ThemeOverlay.AppCompat">
+        <item name="colorAccent">@color/purple_200</item>
+        <item name="backgroundColor">@color/purple_200</item>
+        <item name="color">@color/purple_200</item>
+
+    </style>
+
+</resources>
