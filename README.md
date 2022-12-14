@@ -1,6 +1,6 @@
 # Math-App
 
-This Android app is published on the Google Play Store, check it out [here](https://pages.github.com/). To view my other apps, click [here](https://play.google.com/store/apps/developer?id=David+Hudson+Apps).
+This Android app is published on the Google Play Store, check it out [here](https://play.google.com/store/apps/details?id=practice.math.app). To view my other apps, click [here](https://play.google.com/store/apps/developer?id=David+Hudson+Apps).
 
 This project allows the user to efficiently train arithmetic. It allows for customization of math problems to train at any skill level. Choose between addition, subtraction, multiplication, and division modes. Solve randomly generated arithmetic problems with the ability to pick custom ranges the numbers are being generated from.
 
